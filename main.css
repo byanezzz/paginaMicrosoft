@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+}
+
+footer{
+  text-align:center;
+  padding-top: 30px;
+}
+
+h1, h3{
+	font-family: 'Ceviche One', cursive;
+	font-size: 40px
+
+}          
+
+p, #cuadrado-color h4{
+	font-family: 'Nunito', sans-serif;
+}
+
+#cuadrado-color{
+  background-color: #FCE01B;
+}
+
+#cuadrado-color img{
+	padding-top: 50px;
+	width: 250px;
+	height: 200px;
+
+}
+#enlaces{
+	border-top: 1px solid black;
+}
+#informacion img{
+	width: 50%;
+}
+
